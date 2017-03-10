@@ -1,3 +1,21 @@
+html{
+	font-size: 62.5%;
+}
 body {
 	background-color: #0CAB24;
+}
+.lol {
+	font-family: 'Noticia Text', serif;
+	font-weight: 700;
+	text-align: center;
+	color: blue;
+	font-size: 4rem;
+	text-transform: uppercase;
+}
+.fa-plus {
+	color: blue;
+	height: 3rem;
+	width: 3rem;
+	margin-left: 1rem;
+
 }
