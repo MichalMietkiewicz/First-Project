@@ -47,6 +47,11 @@ body{
 }
 .fb {
 	float: left;
+	width: 250px;
+	height: 155px;
+}
+.fb:hover {
+	background-color: #4668b3;
 }
 .yt{
 	float: left;
