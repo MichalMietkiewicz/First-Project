@@ -32,7 +32,8 @@ body{
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: justify;
+	text-align: center;
+	
 }
 .socials{
 	width: 100%;
@@ -42,8 +43,9 @@ body{
 }
 .socialdivs {
 	width: 1000px;
-	margin-left: auto
-	margin-right:auto;
+
+	margin-left: auto;
+	margin-right: auto;
 }
 .fb {
 	float: left;
@@ -53,13 +55,28 @@ body{
 .fb:hover {
 	background-color: #4668b3;
 }
-.yt{
+.yt {
 	float: left;
+	width: 250px;
+	height: 155px;
 }
-.tweeter{
-	float: left;
+.yt:hover {
+	background-color: #d94348;
 }
-.google+{
+.twitter {
 	float: left;
+	width: 250px;
+	height: 155px;
+}
+.twitter:hover {
+	background-color: #3095d3;
+}
+.googleplus {
+	float: left;
+	width: 250px;
+	height: 155px;
+}
+.googleplus:hover {
+	background-color: #d95333;
 }
 
